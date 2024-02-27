@@ -1,0 +1,4 @@
+Today's Goal:
+Basic Git Actions
+Branch
+Merge
